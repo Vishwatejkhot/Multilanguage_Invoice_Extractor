@@ -1,1 +1,1 @@
-# Multilanguage_Invoice_Extractor
+# Multilanguage_Invoice_Image_Extractor
